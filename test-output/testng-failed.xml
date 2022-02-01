@@ -5,7 +5,12 @@
     <classes>
       <class name="com.ilab.assessment.OrangeHRMApp">
         <methods>
+          <include name="addTap"/>
           <include name="loadBrowser"/>
+          <include name="AddingUser"/>
+          <include name="SearchUser"/>
+          <include name="addButton"/>
+          <include name="Login"/>
         </methods>
       </class> <!-- com.ilab.assessment.OrangeHRMApp -->
     </classes>
